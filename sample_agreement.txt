@@ -1,0 +1,20 @@
+SOFTWARE LICENCE AGREEMENT (SAMPLE, FICTIONAL)
+Between Northstar Analytics Ltd ("Licensor") and Example Corp ("Licensee").
+
+1. Grant of Licence. Licensor grants Licensee a non-exclusive, non-transferable licence for up to 150 Named Users to use the Northstar Insight platform for internal business purposes only.
+
+2. Term and Renewal. The initial term is 36 months from 1 January 2026. The agreement renews automatically for successive 12-month periods unless either party gives written notice of non-renewal at least 90 days before the end of the then-current term.
+
+3. Fees. Licensee shall pay an annual fee of USD 90,000, invoiced in advance. Licensor may increase fees on each renewal by up to 7% by giving 60 days' notice.
+
+4. Restrictions. Licensee shall not sublicense, rent, or share credentials, nor allow access by contractors or affiliates without Licensor's written consent. Use outside the licensed region (European Economic Area) is prohibited.
+
+5. Audit. Licensor may audit Licensee's use of the software once in any 12-month period on 14 days' written notice. Licensee shall bear the cost of the audit if it reveals over-deployment exceeding 5%.
+
+6. Over-deployment. If an audit shows use above the licensed quantity, Licensee shall pay for the additional users at 150% of the then-current list price, backdated to the date of first use.
+
+7. Termination. Either party may terminate for material breach not remedied within 30 days of notice. Licensor may terminate immediately if Licensee breaches Clause 4. No refund of prepaid fees is due on termination for Licensee's breach.
+
+8. Assignment. Licensee may not assign this agreement, including on a merger or change of control, without Licensor's prior written consent.
+
+9. Governing Law. This agreement is governed by the laws of England and Wales.
