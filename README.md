@@ -33,6 +33,3 @@ streamlit run app.py
 
 ## Limitations
 Sample data and agreement are synthetic. Seat-based rules do not model processor-core or virtualisation licensing in detail. LLM extraction can miss or misread clauses, so evidence quotes should be checked by a person.
-
-## Resume bullet
-Built a GPT-powered licence compliance assistant (Python, Streamlit, OpenAI API) that flags over-deployed, expired and unused software, estimates true-up exposure, extracts audit and termination terms from agreements with evidence quotes, and answers clause-grounded questions.
